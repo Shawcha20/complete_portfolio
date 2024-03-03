@@ -17,7 +17,7 @@
     <title>Side_bar_portfolio</title>
   </head>
   <body>
-    <div class="nav_toggle"><i class="ri-close-line"></i></div>
+    <div class="nav_toggle" id="nav-toggle"><i class="ri-close-line"></i></div>
     <aside class="sidebar" id="sidebar">
       <nav class="nav">
         <div class="logo">
