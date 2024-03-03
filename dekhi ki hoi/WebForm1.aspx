@@ -17,11 +17,11 @@
     <title>Side_bar_portfolio</title>
   </head>
   <body>
-    <div class="nav_toggle"><i class="ri-close-line"></i></div>
+    <div class="nav_toggle" id="nav-toggle"><i class="ri-close-line"></i></div>
     <aside class="sidebar" id="sidebar">
       <nav class="nav">
         <div class="logo">
-          <a href="portfolio_side.html" class="navlogo-text">S</a>
+          <a href="webform1.aspx" class="navlogo-text" style="cursor:pointer;">S</a>
         </div>
         <div class="nav_menu">
           <div class="menu">
