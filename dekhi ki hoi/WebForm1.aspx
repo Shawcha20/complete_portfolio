@@ -21,7 +21,7 @@
     <aside class="sidebar" id="sidebar">
       <nav class="nav">
         <div class="logo">
-          <a href="portfolio_side.html" class="navlogo-text">S</a>
+          <a href="webform1.aspx" class="navlogo-text" style="cursor:pointer;">S</a>
         </div>
         <div class="nav_menu">
           <div class="menu">
@@ -361,114 +361,18 @@
                 </ul>
               </div>
             </div>
-            <div class="work_card mix app">
-              <img src="/images/R.webp" alt="" class="work_img">
-              <h3 class="work_title">App Design</h3>
-              <span class="work_button">
-                Demo
-               <i class="ri-arrow-right-line work_button-icon"></i>
-              </span>
-              <div class="portfolio_item-details">
-                <h3 class="details_title">Mobile app design using android studio</h3>
-                <p class="details_description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, repellendus officiis dolorum deserunt sed cum
-                  ea numquam expedita, commodi culpa impedit adipisci repudiandae iure reiciendis id vitae deleniti eius? Esse.
-                </p>
-                <ul class="details_info">
-                  <li>Created - <span>4 dec 2020</span></li>
-                  <li>Technology- <span>html css</span></li>
-                  <li>Role - <span>Frontend</span></li>
-                  <li>View - <span><a href="#"> wwww.domain.com</a></span></li>
-                </ul>
-              </div>
+
+
+              <!--database connection Established-->
+
+            <div class="work_card mix app" id="container" runat="server">   
             </div>
-            <div class="work_card mix design">
-              <img src="/images/R.webp" alt="" class="work_img">
-              <h3 class="work_title">PCB Design</h3>
-              <span class="work_button">
-                Demo
-               <i class="ri-arrow-right-line work_button-icon"></i>
-              </span>
-              <div class="portfolio_item-details">
-                <h3 class="details_title">Easyeda online pcb design for complex circuit</h3>
-                <p class="details_description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, repellendus officiis dolorum deserunt sed cum
-                  ea numquam expedita, commodi culpa impedit adipisci repudiandae iure reiciendis id vitae deleniti eius? Esse.
-                </p>
-                <ul class="details_info">
-                  <li>Created - <span>4 dec 2020</span></li>
-                  <li>Technology- <span>html css</span></li>
-                  <li>Role - <span>Frontend</span></li>
-                  <li>View - <span><a href="#"> wwww.domain.com</a></span></li>
-                </ul>
-              </div>
-            </div>
-            <div class="work_card mix app">
-              <img src="/images/R.webp" alt="" class="work_img">
-              <h3 class="work_title">Brand design</h3>
-              <span class="work_button">
-                Demo
-               <i class="ri-arrow-right-line work_button-icon"></i>
-              </span>
-              <div class="portfolio_item-details">
-                <h3 class="details_title"> Designing brand</h3>
-                <p class="details_description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, repellendus officiis dolorum deserunt sed cum
-                  ea numquam expedita, commodi culpa impedit adipisci repudiandae iure reiciendis id vitae deleniti eius? Esse.
-                </p>
-                <ul class="details_info">
-                  <li>Created - <span>4 dec 2020</span></li>
-                  <li>Technology- <span>html css</span></li>
-                  <li>Role - <span>Frontend</span></li>
-                  <li>View - <span><a href="#"> wwww.domain.com</a></span></li>
-                </ul>
-              </div>
-            </div>
-            <div class="work_card mix web">
-              <img src="/images/R.webp" alt="" class="work_img">
-              <h3 class="work_title">Database design</h3>
-              <span class="work_button">
-                Demo
-               <i class="ri-arrow-right-line work_button-icon"></i>
-              </span>
-              <div class="portfolio_item-details">
-                <h3 class="details_title">Database design using oracle mysql</h3>
-                <p class="details_description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, repellendus officiis dolorum deserunt sed cum
-                  ea numquam expedita, commodi culpa impedit adipisci repudiandae iure reiciendis id vitae deleniti eius? Esse.
-                </p>
-                <ul class="details_info">
-                  <li>Created - <span>4 dec 2020</span></li>
-                  <li>Technology- <span>html css</span></li>
-                  <li>Role - <span>Frontend</span></li>
-                  <li>View - <span><a href="#"> wwww.domain.com</a></span></li>
-                </ul>
-              </div>
-            </div>
-            <div class="work_card mix design">
-              <img src="/images/R.webp" alt="" class="work_img">
-              <h3 class="work_title">Software Design</h3>
-              <span class="work_button">
-                Demo
-               <i class="ri-arrow-right-line work_button-icon"></i>
-              </span>
-              <div class="portfolio_item-details">
-                <h3 class="details_title">software design using design patterns</h3>
-                <p class="details_description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, repellendus officiis dolorum deserunt sed cum
-                  ea numquam expedita, commodi culpa impedit adipisci repudiandae iure reiciendis id vitae deleniti eius? Esse.
-                </p>
-                <ul class="details_info">
-                  <li>Created - <span>4 dec 2020</span></li>
-                  <li>Technology- <span>html css</span></li>
-                  <li>Role - <span>Frontend</span></li>
-                  <li>View - <span><a href="#"> wwww.domain.com</a></span></li>
-                </ul>
-              </div>
-            </div>
-          </div>
+
+
+
+
         </section>
-        <div class="portfolio_popup">
+        <div class="portfolio_popup" id="container">
           <div class="portfolio_popup-inner">
             <div class="portfolio_popup-content grid">
               <span class="portfolio_popup-close"><i class="ri-close-fill"></i></span>
