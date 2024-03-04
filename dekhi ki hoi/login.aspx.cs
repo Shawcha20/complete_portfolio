@@ -41,7 +41,7 @@ namespace dekhi_ki_hoi
                     {
                         // Username and password match
                         Response.Write("<script> alert('login')</script>");
-                        Response.Redirect("~/addition.aspx");
+                        Response.Redirect("~/homeaspx.aspx");
                     }
                     else
                     {

@@ -67,10 +67,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="addition.aspx" />
+    <Content Include="add_project.aspx" />
     <Content Include="css\portfolio_side.css" />
     <Content Include="css\style.css" />
     <Content Include="css\swiper-bundle.css" />
+    <Content Include="css\updateStyle.css" />
+    <Content Include="delete.aspx" />
+    <Content Include="homeaspx.aspx" />
     <Content Include="images\about_image.jpg" />
     <Content Include="images\back.jpg" />
     <Content Include="images\home_background.png" />
@@ -84,16 +87,32 @@
     <Content Include="java\portfolio_side.js" />
     <Content Include="java\swiper-bundle.js" />
     <Content Include="login.aspx" />
+    <Content Include="show_table.aspx" />
+    <Content Include="updateaspx.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="addition.aspx.cs">
-      <DependentUpon>addition.aspx</DependentUpon>
+    <Compile Include="add_project.aspx.cs">
+      <DependentUpon>add_project.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="addition.aspx.designer.cs">
-      <DependentUpon>addition.aspx</DependentUpon>
+    <Compile Include="add_project.aspx.designer.cs">
+      <DependentUpon>add_project.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="delete.aspx.cs">
+      <DependentUpon>delete.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="delete.aspx.designer.cs">
+      <DependentUpon>delete.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="homeaspx.aspx.cs">
+      <DependentUpon>homeaspx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="homeaspx.aspx.designer.cs">
+      <DependentUpon>homeaspx.aspx</DependentUpon>
     </Compile>
     <Compile Include="login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
@@ -103,6 +122,20 @@
       <DependentUpon>login.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="show_table.aspx.cs">
+      <DependentUpon>show_table.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="show_table.aspx.designer.cs">
+      <DependentUpon>show_table.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="updateaspx.aspx.cs">
+      <DependentUpon>updateaspx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="updateaspx.aspx.designer.cs">
+      <DependentUpon>updateaspx.aspx</DependentUpon>
+    </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

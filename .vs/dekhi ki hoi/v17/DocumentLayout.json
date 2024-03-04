@@ -3,40 +3,60 @@
   "WorkspaceRootPath": "F:\\web programming\\asp.net\\dekhi ki hoi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|f:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\show_table.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\show_table.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|f:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\show_table.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\show_table.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|f:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\updateaspx.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\updateaspx.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\updateaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\updateaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|f:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\css\\portfolio_side.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\css\\portfolio_side.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\java\\portfolio_side.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\java\\portfolio_side.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\addition.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\addition.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\homeaspx.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\homeaspx.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\add_project.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\add_project.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\add_project.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\add_project.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\homeaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\homeaspx.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{764ED6B1-C684-4453-9728-B658FF1A3727}|dekhi ki hoi\\dekhi ki hoi.csproj|solutionrelative:dekhi ki hoi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,73 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "login.aspx.cs",
-              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx.cs",
-              "RelativeDocumentMoniker": "dekhi ki hoi\\login.aspx.cs",
-              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx.cs",
-              "RelativeToolTip": "dekhi ki hoi\\login.aspx.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAACUAAAAUAAAA",
+              "DocumentIndex": 2,
+              "Title": "updateaspx.aspx.cs",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\updateaspx.aspx.cs",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\updateaspx.aspx.cs",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\updateaspx.aspx.cs",
+              "RelativeToolTip": "dekhi ki hoi\\updateaspx.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T12:24:46.22Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "login.aspx",
-              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx",
-              "RelativeDocumentMoniker": "dekhi ki hoi\\login.aspx",
-              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx",
-              "RelativeToolTip": "dekhi ki hoi\\login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-03T12:24:19.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Web.config",
-              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\Web.config",
-              "RelativeDocumentMoniker": "dekhi ki hoi\\Web.config",
-              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\Web.config",
-              "RelativeToolTip": "dekhi ki hoi\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-02T20:42:15.095Z",
+              "WhenOpened": "2024-03-04T14:02:47.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WebForm1.aspx.cs",
-              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\WebForm1.aspx.cs",
-              "RelativeDocumentMoniker": "dekhi ki hoi\\WebForm1.aspx.cs",
-              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\WebForm1.aspx.cs",
-              "RelativeToolTip": "dekhi ki hoi\\WebForm1.aspx.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T20:21:20.595Z"
+              "Title": "updateaspx.aspx",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\updateaspx.aspx",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\updateaspx.aspx",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\updateaspx.aspx",
+              "RelativeToolTip": "dekhi ki hoi\\updateaspx.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T07:04:40.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "portfolio_side.css",
-              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\css\\portfolio_side.css",
-              "RelativeDocumentMoniker": "dekhi ki hoi\\css\\portfolio_side.css",
-              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\css\\portfolio_side.css",
-              "RelativeToolTip": "dekhi ki hoi\\css\\portfolio_side.css",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAAAIcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-02T20:21:30.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\WebForm1.aspx",
               "RelativeDocumentMoniker": "dekhi ki hoi\\WebForm1.aspx",
@@ -120,44 +104,151 @@
               "RelativeToolTip": "dekhi ki hoi\\WebForm1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-02T20:21:22.247Z",
+              "WhenOpened": "2024-03-03T17:54:13.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "portfolio_side.js",
-              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\java\\portfolio_side.js",
-              "RelativeDocumentMoniker": "dekhi ki hoi\\java\\portfolio_side.js",
-              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\java\\portfolio_side.js",
-              "RelativeToolTip": "dekhi ki hoi\\java\\portfolio_side.js",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAuwHYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-03T15:28:54.897Z"
+              "DocumentIndex": 6,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx.cs",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\login.aspx.cs",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx.cs",
+              "RelativeToolTip": "dekhi ki hoi\\login.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:31:33.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "addition.aspx",
-              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\addition.aspx",
-              "RelativeDocumentMoniker": "dekhi ki hoi\\addition.aspx",
-              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\addition.aspx",
-              "RelativeToolTip": "dekhi ki hoi\\addition.aspx",
+              "DocumentIndex": 5,
+              "Title": "homeaspx.aspx.cs",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\homeaspx.aspx.cs",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\homeaspx.aspx.cs",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\homeaspx.aspx.cs",
+              "RelativeToolTip": "dekhi ki hoi\\homeaspx.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:38:04.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\WebForm1.aspx.cs",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\WebForm1.aspx.cs",
+              "RelativeToolTip": "dekhi ki hoi\\WebForm1.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T17:54:06.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "show_table.aspx",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\show_table.aspx",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\show_table.aspx",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\show_table.aspx",
+              "RelativeToolTip": "dekhi ki hoi\\show_table.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-03T14:40:31.733Z"
+              "WhenOpened": "2024-03-04T13:00:43.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "show_table.aspx.cs",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\show_table.aspx.cs",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\show_table.aspx.cs",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\show_table.aspx.cs",
+              "RelativeToolTip": "dekhi ki hoi\\show_table.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:18:10.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.aspx",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\login.aspx",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\login.aspx",
+              "RelativeToolTip": "dekhi ki hoi\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T20:31:07.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "style.css",
-              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\css\\style.css",
-              "RelativeDocumentMoniker": "dekhi ki hoi\\css\\style.css",
-              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\css\\style.css",
-              "RelativeToolTip": "dekhi ki hoi\\css\\style.css",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAqwFsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-03T14:17:00.636Z"
+              "Title": "add_project.aspx",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\add_project.aspx",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\add_project.aspx",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\add_project.aspx",
+              "RelativeToolTip": "dekhi ki hoi\\add_project.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T06:30:00.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "add_project.aspx.cs",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\add_project.aspx.cs",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\add_project.aspx.cs",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\add_project.aspx.cs",
+              "RelativeToolTip": "dekhi ki hoi\\add_project.aspx.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:30:17.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "homeaspx.aspx",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\homeaspx.aspx",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\homeaspx.aspx",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\homeaspx.aspx",
+              "RelativeToolTip": "dekhi ki hoi\\homeaspx.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-04T06:37:56.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\Web.config",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\Web.config",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\Web.config",
+              "RelativeToolTip": "dekhi ki hoi\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAC3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-03T18:00:55.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "delete.aspx",
+              "DocumentMoniker": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\delete.aspx",
+              "RelativeDocumentMoniker": "dekhi ki hoi\\delete.aspx",
+              "ToolTip": "F:\\web programming\\asp.net\\dekhi ki hoi\\dekhi ki hoi\\delete.aspx",
+              "RelativeToolTip": "dekhi ki hoi\\delete.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T21:05:47.541Z",
+              "EditorCaption": ""
             }
           ]
         }
