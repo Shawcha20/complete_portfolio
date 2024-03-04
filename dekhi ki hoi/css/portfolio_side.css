@@ -249,7 +249,7 @@ button, input {
 }
 
 .home {
-    background: url('/images/back.jpg');
+    background: url('/images/home_page.jpg');
     background-size: cover;
     background-position: center center;
     height: 100vh;

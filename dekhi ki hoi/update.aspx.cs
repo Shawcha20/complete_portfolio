@@ -41,6 +41,8 @@ namespace dekhi_ki_hoi
                 command.Parameters.AddWithValue("@View", view.Value);
                 command.ExecuteNonQuery();
                 con.Close();
+               
+                Response.Redirect("~/homeaspx.aspx");
             }
             catch (Exception ex)
             {

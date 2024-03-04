@@ -79,7 +79,7 @@
 
     function loadUpdateContent() {
         // Use AJAX to load update.aspx content
-        fetch("updateaspx.aspx")
+        fetch("update.aspx")
             .then(response => response.text())
             .then(data => {
                 document.getElementById("updateContent").innerHTML = data;

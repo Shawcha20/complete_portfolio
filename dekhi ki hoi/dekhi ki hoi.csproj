@@ -75,7 +75,6 @@
     <Content Include="delete.aspx" />
     <Content Include="homeaspx.aspx" />
     <Content Include="images\about_image.jpg" />
-    <Content Include="images\back.jpg" />
     <Content Include="images\home_background.png" />
     <Content Include="images\home_image.jpg" />
     <Content Include="images\home_image.png" />
