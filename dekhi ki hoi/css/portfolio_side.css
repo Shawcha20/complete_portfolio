@@ -138,8 +138,8 @@ button, input {
 }
 
 .logo {
-    cursor:pointer;
-    z-index:99;
+    cursor: pointer;
+    z-index: 99;
     position: absolute;
     left: 0;
     right: 0;
@@ -249,7 +249,7 @@ button, input {
 }
 
 .home {
-    background: url('/images/home_page.jpg');
+    background: url('/images/back.jpg');
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -598,7 +598,9 @@ button, input {
     margin: .5rem;
 }
 
-
+.portfolio_item-details {
+    display: none;
+}
 
 .work_img {
     border-radius: .5rem;
@@ -1070,7 +1072,6 @@ textarea.input {
     .sidebar {
         width: 100%;
         z-index: 900;
-        ;
         transform: translateX(-100%);
     }
 
