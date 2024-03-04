@@ -116,8 +116,4 @@ function navHighlighter() {
             }
         }
     });
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> login

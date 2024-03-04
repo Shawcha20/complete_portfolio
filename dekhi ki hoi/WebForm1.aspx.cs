@@ -6,6 +6,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
+using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls;
 
 namespace dekhi_ki_hoi
@@ -36,32 +37,30 @@ namespace dekhi_ki_hoi
                     string role = reader["role"].ToString();
                     string view = reader["view"].ToString();
 
-                    // Construct HTML dynamically for each project
+                    // Construct HTML dynamically for each project with inline CSS
                     string projectHtml = $@"
-                    <div class='work_card mix app'>
-                        <img src='data:image;base64,{imageName}' alt='' class='work_img'>
-                        <h3 class='work_title'>{pName}</h3>
-                        <span class='work_button'>
-                            Demo
-                            <i class='ri-arrow-right-line work_button-icon'></i>
-                        </span>
-                        <div class='portfolio_item-details'>
-                            <h3 class='details_title'>{pdetails}</h3>
-                            <p class='details_description'>{pdescription}</p>
-                            <ul class='details_info'>
-                                <li>Created - <span>{date}</span></li>
-                                <li>Technology - <span>{technology}</span></li>
-                                <li>Role - <span>{role}</span></li>
-                                <li>View - <span><a href='{view}'>{view}</a></span></li>
-                            </ul>
-                        </div>
-                    </div>";
+    <div class='work_card mix app' style='border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;'>
+        <img src='data:image;base64,{imageName}' alt='' class='work_img' style='width: 100%; max-width: 300px; height: 300px;'>
+        <h3 class='work_title' style='margin-top: 10px; font-size: 20px;'>{pName}</h3>
+        <div  style='margin-top: 10px;'>
+            <h3  style='font-size: 18px;'>{pdetails}</h3>
+            <p  style='font-size: 16px;'>{pdescription}</p>
+            <ul style='list-style-type: none; padding: 0;'>
+                <li style='font-size: 14px; margin-bottom: 5px;'>Created - <span>{date}</span></li>
+                <li style='font-size: 14px; margin-bottom: 5px;'>Technology - <span>{technology}</span></li>
+                <li style='font-size: 14px; margin-bottom: 5px;'>Role - <span>{role}</span></li>
+                <li style='font-size: 14px; margin-bottom: 5px;'>View - <span><a href='{view}' style='color: #007bff; text-decoration: none;'>{view}</a></span></li>
+            </ul>
+        </div>
+    </div>";
 
                     // Append HTML for each project to the container
+                    HtmlGenericControl container = (HtmlGenericControl)FindControl("content");
                     container.InnerHtml += projectHtml;
                 }
 
                 reader.Close();
+
             }
         }
         protected void sendbtn_Click(object sender, EventArgs e)

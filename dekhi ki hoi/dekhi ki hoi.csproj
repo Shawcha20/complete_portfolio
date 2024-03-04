@@ -88,7 +88,7 @@
     <Content Include="java\swiper-bundle.js" />
     <Content Include="login.aspx" />
     <Content Include="show_table.aspx" />
-    <Content Include="updateaspx.aspx" />
+    <Content Include="update.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
@@ -129,12 +129,12 @@
     <Compile Include="show_table.aspx.designer.cs">
       <DependentUpon>show_table.aspx</DependentUpon>
     </Compile>
-    <Compile Include="updateaspx.aspx.cs">
-      <DependentUpon>updateaspx.aspx</DependentUpon>
+    <Compile Include="update.aspx.cs">
+      <DependentUpon>update.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="updateaspx.aspx.designer.cs">
-      <DependentUpon>updateaspx.aspx</DependentUpon>
+    <Compile Include="update.aspx.designer.cs">
+      <DependentUpon>update.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>

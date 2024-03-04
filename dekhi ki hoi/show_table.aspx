@@ -48,7 +48,6 @@
                     <asp:BoundField DataField="technology" HeaderText="Technology" />
                     <asp:BoundField DataField="role" HeaderText="Role" />
                     <asp:BoundField DataField="view" HeaderText="View" />
-                    <asp:TemplateField HeaderText="Update"></asp:TemplateField>
                 </Columns>
             </asp:GridView>
         </div>

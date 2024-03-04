@@ -15,7 +15,7 @@ namespace dekhi_ki_hoi
         {
 
         }
-        protected void update(object sender, EventArgs e)
+        protected void Add(object sender, EventArgs e)
         {
             byte[] projectImage = null;
             using (var binaryReader = new BinaryReader(img.PostedFile.InputStream))  //img ta holo id

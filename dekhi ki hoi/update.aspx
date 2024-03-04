@@ -1,11 +1,10 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="add_project.aspx.cs" Inherits="dekhi_ki_hoi.add_project" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="update.aspx.cs" Inherits="dekhi_ki_hoi.update" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link rel="stylesheet" href="css/updateStyle.css" />
-    <title>Update</title>
+    <title></title>
 </head>
 <body>
   <div class="addTitle">
@@ -51,11 +50,9 @@
       <input type="text" runat="server" id="technology">
   </div>
         <div>
-            <input type="submit" id="submission" runat="server" onserverclick="Add" placeholder="Add Project">
+            <input type="submit" id="submission" runat="server" onserverclick="Update" placeholder="Update Project">
         </div>
         </form>
     </div>
 </body>
 </html>
-
-
