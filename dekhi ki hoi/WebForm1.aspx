@@ -17,7 +17,7 @@
     <title>Side_bar_portfolio</title>
   </head>
   <body>
-    <div class="nav_toggle" id="nav-toggle"><i class="ri-close-line"></i></div>
+    <div class="nav_toggle" id="nav-toggle"><i class="ri-bar-chart-horizontal-line"></i></div>
     <aside class="sidebar" id="sidebar">
       <nav class="nav">
         <div class="logo">
@@ -331,6 +331,7 @@
         </section>
 
 
+       
         <section class="work section container" id="work">
 
 
@@ -342,11 +343,29 @@
           <div class="work_container container grid" id="content" runat="server">
               </div>
         </section>
-
-
-
-
- 
+        <div class="portfolio_popup" id="container">
+          <div class="portfolio_popup-inner">
+            <div class="portfolio_popup-content grid">
+              <span class="portfolio_popup-close"><i class="ri-close-fill"></i></span>
+              <div class="pp_thumbnail">
+                <img src="/images/R.webp" alt="" class="portfolio_popup-img">
+              </div>
+              <div class="portfolio_popup-info">
+                <div class="portfolio_popup-subtitle">Featured - <span>Design</span></div>
+                <div class="portfolio_popup-body">
+                  <h3 class="details_title">App for tecnology & services</h3>
+                  <p class="details_description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit deleniti eveniet molestiae sequi, sapiente pariatur labore veniam repudiandae nobis optio nam assumenda similique tenetur, expedita fugit necessitatibus in perspiciatis delectus?</p>
+                  <ul class="details_info">
+                    <li>Created - <span>4 dec 2020</span></li>
+                    <li> Technologis- <span>html css</span></li>
+                    <li>Role <span>fontend</span></li>
+                    <li>View- <span><a href="#">www.domain.com</a></span></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         <section class="serirvices section"  id="services" >
         <h2 data-heading="Services" class="section_title"> what I offer</h2>  
         <div class="services_container container grid">
@@ -479,7 +498,58 @@
           </div>
         </div>
         </section>
-        
+        <section class="testimonial section ">
+          <h2 data-heading="My client say" class="section_title">Testimonials</h2>
+          <div class="testimonials_container container swiper">
+            <div class="swiper-wrapper">
+              <div class="testimonial_card swiper-slide">
+                <div class="testimonial_quote">
+                  <i class="ri-double-quotes-l"></i>
+                </div>
+                <p class="testimonial_description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptatum laudantium, voluptates esse totam aliquid, nulla rem mollitia dolores alias amet perspiciatis neque. Voluptatum provident, vel ipsa magnam dolore natus.</p>
+                <h3 class="testimonial_date">March 27,2020</h3>
+                <div class="testimonial_profile">
+                  <img src="/images/solo_leveling.jpg" alt="solo_leveling" class="testimonial_profile-img">
+                  <div class="testimonial_profile-data">
+                    <span class="testimonial_profile-name">Shawcha</span>
+                    <span class="testimonial_profile-details">DIrector of company</span>
+                  </div>
+                </div>
+              </div>
+              <div class="testimonial_card swiper-slide">
+                <div class="testimonial_quote">
+                  <i class="ri-double-quotes-l"></i>
+                </div>
+                <p class="testimonial_description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptatum laudantium, voluptates esse totam aliquid, nulla rem mollitia dolores alias amet perspiciatis neque. Voluptatum provident, vel ipsa magnam dolore natus.</p>
+                <h3 class="testimonial_date">March 27,2020</h3>
+                <div class="testimonial_profile">
+                  <img src="/images/solo_leveling.jpg" alt="solo_leveling" class="testimonial_profile-img">
+                  <div class="testimonial_profile-data">
+                    <span class="testimonial_profile-name">Shawcha</span>
+                    <span class="testimonial_profile-details">DIrector of company</span>
+
+                  </div>
+                </div>
+              </div>
+              <div class="testimonial_card swiper-slide">
+                <div class="testimonial_quote">
+                  <i class="ri-double-quotes-l"></i>
+                </div>
+                <p class="testimonial_description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae voluptatum laudantium, voluptates esse totam aliquid, nulla rem mollitia dolores alias amet perspiciatis neque. Voluptatum provident, vel ipsa magnam dolore natus.</p>
+                <h3 class="testimonial_date">March 27,2020</h3>
+                <div class="testimonial_profile">
+                  <img src="/images/solo_leveling.jpg" alt="solo_leveling" class="testimonial_profile-img">
+                  <div class="testimonial_profile-data">
+                    <span class="testimonial_profile-name">Shawcha</span>
+                    <span class="testimonial_profile-details">DIrector of company</span>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+          </div>
+        </section>
         <section class="contact section" id="contact">
           <h2 class="section_title" data-heading="Get in touch">Contact Me</h2>
           <div class="contact_container container grid">
@@ -563,4 +633,4 @@
     <script src="/java/mixitup.min.js"></script>
     <script src="/java/portfolio_side.js"></script>
   </body>
-</html>                                        
+</html>                                        gir ch
